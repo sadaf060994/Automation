@@ -1,4 +1,4 @@
-Feature: Logging in
+Feature: Logging in Demo
 
 Scenario: Homepage default login
 Given User is on homepage
